@@ -1,3 +1,7 @@
+// Arduino hőmérséklet és páratartalom mérő rendszer
+// Készítette: Pomázi Zsolt (K6VYOP)
+// Verzió: V1
+
 #include <DHT.h>
 
 #define DHTPIN 2
